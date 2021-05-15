@@ -24,7 +24,7 @@
 				<div class="inner">
 					<h2>Menu</h2>
 					<ul class="links">
-						<li><a href="index.html">Inicio</a></li>
+						<li><a href="index.php">Inicio</a></li>
 						<li><a href="#wrapper">Sobre Mi</a></li>
 						<li><a href="#portafolio">Portafolio</a></li>
 						<li><a href="#footer">Contacto</a></li>
