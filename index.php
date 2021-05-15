@@ -14,7 +14,7 @@
 		<div id="page-wrapper">				
 			
 			<header id="header" class="alt">
-				<h1><a href="index.html">Jared Arturo Santiago Garcia</a></h1>
+				<h1><a href="index.php">Jared Arturo Santiago Garcia</a></h1>
 				<nav>
 					<a href="#menu">Menu</a>
 				</nav>
