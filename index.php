@@ -90,37 +90,37 @@
 						<section class="features">
 
 							<article>
-								<a href="images/Prepa-Bot.jpg" class="image"><img src="images/Prepa-Bot.jpg"></a>
+								<img src="images/Prepa-Bot.jpg" class="image">
 								<h3 class="major">PREPA BOT</h3>
 								<p>Es una aplicacion de Chatbot educativo para la plataforma Facebook Messenger, el cual responde preguntas de matemáticas e informática de forma inmediata. Utilice Flask, AIML y Python para la programación. </p>
 							</article>
 
 							<article>
-								<a href="images/animate.jpg" class="image"><img src="images/animate.jpg"></a>
+								<img src="images/animate.jpg" class="image">
 								<h3 class="major">ANIMATE</h3>
 								<p>Sitio web orientado a facilitar el aprendizaje de fracciones a los niños de primaria, proporcionando herramientas para comprender definiciones y operaciones mediante un juego de preguntas y respuestas. Use Html5, CSS3 y Javascript.</p>
 							</article>
 										
 							<article>
-								<a href="images/tiendadeportiva.jpg" class="image"><img src="images/tiendadeportiva.jpg"></a>
+								<img src="images/tiendadeportiva.jpg" class="image">
 								<h3 class="major">TIENDA DEPORTIVA</h3>
 								<p>Modele personajes y escenario para realizar una animación de un partido de futbol e implementarlo en una pagina de tienda web. Utilice  Html5, Javascript, Three.js y 3DS Max.</Html> </p>
 							</article>
 										
 							<article>
-								<a href="images/rola_el_libro.jpg" class="image"><img src="images/rola_el_libro.jpg"></a>
+								<img src="images/rola_el_libro.jpg" class="image">
 								<h3 class="major">ROLA EL LIBRO</h3>
 								<P>Aplicación móvil para IOS creada con Swift. El objetivo de la aplicación fue brindar a los usuarios una plataforma donde se registren y puedan intercambiar libros agendando citas de forma segura.</P>
 							</article>
 
 							<article>
-								<a href="images/tratamiento.jpg" class="image"><img src="images/tratamiento.jpg"></a>
+								<img src="images/tratamiento.jpg" class="image">
 								<h3 class="major">TRATAMIENTO DE INFORMACION</h3>
 								<p>Elabore una aplicación en java, al recibir un conjunto de datos, realiza una limpieza eliminando los atributos con menor coeficiente de correlación y posteriormente usa el clasificador Naive Bayes. </p>
 							</article>
 										
 							<article>
-								<a href="images/crud.jpg" class="image"><img src="images/crud.jpg"></a>
+								<img src="images/crud.jpg" class="image">
 								<h3 class="major">CRUD DE UNA TIENDA</h3>
 								<p>Elabore en Java y SQL Server un CRUD (Create, Read, Update and Delete) con una relación de muchos amuchos, de productos y proveedores para una tienda.</p>
 							</article>
@@ -129,6 +129,7 @@
 					</div>
 				</section>
 			</section>
+			
 
 			<section id="footer">
 				<div class="inner">
