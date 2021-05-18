@@ -142,7 +142,7 @@
 
 					<ul class="contact">
 						<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABt0lEQVRIS7VVC1HDQBTcVQAoABQACqAKAAUUBVAFgAKKA6oAUEBRQHHQOigKHrPtu/ByuTaBmdxMJjOXu923+z4hel7sGR+tBGZ2AeAcwLE/imnmz5TkZFuQGwkc+BHAQYvKOYARydfSuSKBmd0DuPujfWOSo/xOg+Cf4An3ieRtJKkRmNkZgHc/8AZASoYAbnzvy99H/pb/z37myvcuo105gfzc94MPJEUAM9sluYyRxb1M9ZzkYTpbEXhSXwLIhKSib10FW69JStlvmZqZNpJMfRuQnLairxWqhD9LwUUFAjtNXpPUpc7LzOL9GcmTXIE83nHED5JKeOeVEYDkKviowAJaLwRR4pLkXufw13mIDixIriZAVJAnWe0/7kJiZmoujZW0qgrcVKbfng/1gbqz1gMJRb3glZcH0ixTXTIzNZoSPQCgqFLZqquHiciBpVhVJ5K4KntqFjlBGhWKWGWWQKquDtHnlqZPtf4pDbvkZ3E6BoLSxN0+7MLlRKIfi9QoaavW30LQUNmwKAOQXQLV8CtZlBQsPD/FsdLllyki9YXURAUaJQeb/mTpYCtBlz7YdqZ3gh9fBMUZsIfEGQAAAABJRU5ErkJggg=="/>
-						<a href="https://github.com/JaredSantiag/Portafolio">GitHub</a>
+						<a href="https://github.com/JaredSantiag">GitHub</a>
 					</ul>
 
 					<ul class="contact">	
