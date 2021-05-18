@@ -35,13 +35,13 @@
 
 			<section id="banner">
 				<div class="inner">
-					<div class="photo">
+					<div class="logo">
 						<img src="images/photo-circle.png" width="200" height="200">
 					</div>	
 
 					<h2>Jared Arturo Santiago Garcia</h2>
-					<h4>Licenciado en Ingenieria en Ciencias de la Computacion	|	Benemerita Universidad Autonoma de Puebla</br>
-					Especializado en el Desarrollo de Software</h4>
+					<p>Licenciado en Ingenieria en Ciencias de la Computacion</br>
+					Especializado en el Desarrollo de Software</p>
 
 				</div>
 			</section>
