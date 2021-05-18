@@ -74,7 +74,7 @@
 									Soy apacionado y creativo. Me gusta el desarrollo de software, destacando el desarrollo web.
 								</p>
 								<p>
-									Tengo conocimiento en distintos lenguajes, tengo mucho entusiasmo en no dejar de aprender.
+									Tengo conocimiento en distintos lenguajes y mucho entusiasmo en no dejar de aprender.
 								</p>
 								<p>
 									Actualmente resido en la ciudad de Puebla, Mexico.
@@ -133,29 +133,36 @@
 
 			<section id="footer">
 				<div class="inner">
+					<h2 class="major">CONTACTO</h2>
+					
+					<ul class="contact">		
+						<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAA/UlEQVRIS+WVbQ3CMBiE7xSABBwACkACOMABOIE5AQUwB8MBEkDBkVu2BRhbuuwjJNyvLmnfp/f2uhI9iz3Xx7AASQmAaUtXCcl5XuPNgSS1LJ4uJ1nUrQNEGWzbFBoCiEjuXFjSAUAjyE8AvHnv3EqdNFGIgwcAJ8qaARgBiLPvCYAxgCOAG4DVZ/JCADHJZXYGFwCLfJGkjYuTvOeuJNnlvohmQIoqAVWtkmSgnQbFtM6B23POWrcm6VY5banTLgBunQHWiaTPoDdAyWnXDv4Y4Mi9XjQnxymxPPbls77NC4ppkz9DaW7dTe7iwbmSzB0O/GS26kvF4t4f/SeJ78sZsd8qCgAAAABJRU5ErkJggg=="/>
+						<a href="https://www.linkedin.com/in/jaredsantiag/">Linkedin</a>
+					</ul>
 
 					<ul class="contact">
-						<h2>Contacto</h2>
-						
-						<li>
-							<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAA/UlEQVRIS+WVbQ3CMBiE7xSABBwACkACOMABOIE5AQUwB8MBEkDBkVu2BRhbuuwjJNyvLmnfp/f2uhI9iz3Xx7AASQmAaUtXCcl5XuPNgSS1LJ4uJ1nUrQNEGWzbFBoCiEjuXFjSAUAjyE8AvHnv3EqdNFGIgwcAJ8qaARgBiLPvCYAxgCOAG4DVZ/JCADHJZXYGFwCLfJGkjYuTvOeuJNnlvohmQIoqAVWtkmSgnQbFtM6B23POWrcm6VY5banTLgBunQHWiaTPoDdAyWnXDv4Y4Mi9XjQnxymxPPbls77NC4ppkz9DaW7dTe7iwbmSzB0O/GS26kvF4t4f/SeJ78sZsd8qCgAAAABJRU5ErkJggg=="/>
-							<a href="https://www.linkedin.com/in/jaredsantiag/">Linkedin</a>
-						</li>
-						<li>
-							<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABZElEQVRIS91VwVEDMRCTKoAS6ABSAVABUAFQAaEDUgHpgHQA6YAOCBVAKgAqEKOM78bns8+XzOSTnbmXvauV1qsj9hzcc30cGICkY5K/NdkkXQN4AHAB4BvAguTMeT4j+dbU6EgkyZd9YVUCkTQF8Jw5d84ZgHuSix6AJB9+ADCDG5LvaRFJJwC+Bhga5BPAvGmyZWB5APxEye5iRtKsNhGkeR0A+LNssQKpRO76PClgPf0ZaFKQp0lZkvR82kgZeGju/Kg26MK5GT8NAcQS7YLxSHKeBQga5yTaBmiSvsB0Bn4l1vt0m6rh7pqk8zvRswpJnoOXqDOsEYA9eZyTA7gD8DKiYHxl7SXLuUDW7CR5UGYxNi5zi5ll0FQMW+snd1tB6VhDdQbhNdk2zMBylcJbO419J3cxXjQP10Z2NUKXZSje2kgppzRkg5lF81xtYDbBjW3E/lRr5sD+aDW6u5zvXaJ/3HN3GWI+9wMAAAAASUVORK5CYII="/>
-							<a href="https://twitter.com/JaredSantiag">Twitter</a>
-						</li>
-						<li>
-							<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABaUlEQVRIS7WVjU3DMBCF35uAEYAJgAlgBJgAmIB2AmACygTABJQNOkLZoN0AJnjoKjuyHf8FKZasSIl93/nu+YWYeXDm+GgCJN0BuARw7qbltHVzTfKrlmQRIOkawAuAk8YpdwCWJNe5dVmApBWAh4nlW5FcpntGgH8G93FfSS5CSARwZfmsZL4HsAjLIekJwGOw5yb8ngKsnscFwK81maStGUYGsCN56hcMAKeWt0r2HyRNUYch6cqpy542wzGcIgS8A7itAJ5JWjksuCmsVsohmRBg2j7rBKR1T7dtSV7YyxCghizDE7QAIHmI3QT4hSW4pI3rRbQkB8gqqAPwA+AoSeCbpFlLdIJskzsAudJmm2wSrMl0Sg/uSVrCsZtKql20XsCe5GCQU6yiF1C2CneJSk7aA6ibXWADuYa3AJGVjLwo1bmzAzuNN78SYOSwYazeX6aZ2cYrwxlj9K50EZuAhn00P88O+AMWYLUZjkydZQAAAABJRU5ErkJggg=="/>
-							<a href="https://www.facebook.com/jared.santiagogarcia">Facebook</a>
-						</li>
-						<li>
-							<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABf0lEQVRIS8WVTUrDUBSFzxkKIt2BugO7A12BdS7+DEREEF2BdQdFHYgObHEBugPdge0OdAml4PTIqS8hfU1qEw29k0CSe793z/15RM3GmuNjMQBJmwD2Afi59kuWHwDeAPRI+jlhUxlIOgDwWFG6Q5LdrO8EIJz8tWLwxG0rm0kMMN3SzGvDIGMLwGVwslRWYWwxwHquFkTvAeiHbxvhIH2STUkGPIdv43dFAOUEHwBokTQ8NUmGOGP7uBEaaVAyPXicQR5g3cElPQDYCwEtw3GAvE91TgnAWE9J9wCOokB3JE8kTdWNJQAXJDuSvgAsRYARyRVJ7UyBfwpbAnBFsi1pBGA5AgxJNv4KSCS6BXAaAW5Inkl6AbA9MVwlMrBfk2Rf0jWA3VDkJ5Ln/1FkA9yeO4bktKmnPm3Pedp01qBZiuygebjybEDSM5I7yWVXRR5g5qrweq5v2fk4ta7rJN+wtr0RnVHR8kt+/wwXTneuC6egcJVfL+ZOrnzcHMdvVWasGRN7IRwAAAAASUVORK5CYII="/>
-							<a href="https://www.instagram.com/jaredsantiag/">Instagram</a>
-						</li>					
+						<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABt0lEQVRIS7VVC1HDQBTcVQAoABQACqAKAAUUBVAFgAKKA6oAUEBRQHHQOigKHrPtu/ByuTaBmdxMJjOXu923+z4hel7sGR+tBGZ2AeAcwLE/imnmz5TkZFuQGwkc+BHAQYvKOYARydfSuSKBmd0DuPujfWOSo/xOg+Cf4An3ieRtJKkRmNkZgHc/8AZASoYAbnzvy99H/pb/z37myvcuo105gfzc94MPJEUAM9sluYyRxb1M9ZzkYTpbEXhSXwLIhKSib10FW69JStlvmZqZNpJMfRuQnLairxWqhD9LwUUFAjtNXpPUpc7LzOL9GcmTXIE83nHED5JKeOeVEYDkKviowAJaLwRR4pLkXufw13mIDixIriZAVJAnWe0/7kJiZmoujZW0qgrcVKbfng/1gbqz1gMJRb3glZcH0ixTXTIzNZoSPQCgqFLZqquHiciBpVhVJ5K4KntqFjlBGhWKWGWWQKquDtHnlqZPtf4pDbvkZ3E6BoLSxN0+7MLlRKIfi9QoaavW30LQUNmwKAOQXQLV8CtZlBQsPD/FsdLllyki9YXURAUaJQeb/mTpYCtBlz7YdqZ3gh9fBMUZsIfEGQAAAABJRU5ErkJggg=="/>
+						<a href="https://github.com/JaredSantiag/Portafolio">GitHub</a>
 					</ul>
+
+					<ul class="contact">	
+						<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABZElEQVRIS91VwVEDMRCTKoAS6ABSAVABUAFQAaEDUgHpgHQA6YAOCBVAKgAqEKOM78bns8+XzOSTnbmXvauV1qsj9hzcc30cGICkY5K/NdkkXQN4AHAB4BvAguTMeT4j+dbU6EgkyZd9YVUCkTQF8Jw5d84ZgHuSix6AJB9+ADCDG5LvaRFJJwC+Bhga5BPAvGmyZWB5APxEye5iRtKsNhGkeR0A+LNssQKpRO76PClgPf0ZaFKQp0lZkvR82kgZeGju/Kg26MK5GT8NAcQS7YLxSHKeBQga5yTaBmiSvsB0Bn4l1vt0m6rh7pqk8zvRswpJnoOXqDOsEYA9eZyTA7gD8DKiYHxl7SXLuUDW7CR5UGYxNi5zi5ll0FQMW+snd1tB6VhDdQbhNdk2zMBylcJbO419J3cxXjQP10Z2NUKXZSje2kgppzRkg5lF81xtYDbBjW3E/lRr5sD+aDW6u5zvXaJ/3HN3GWI+9wMAAAAASUVORK5CYII="/>
+						<a href="https://twitter.com/JaredSantiag">Twitter</a>
+					</ul>
+
+					<ul class="contact">
+						<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABaUlEQVRIS7WVjU3DMBCF35uAEYAJgAlgBJgAmIB2AmACygTABJQNOkLZoN0AJnjoKjuyHf8FKZasSIl93/nu+YWYeXDm+GgCJN0BuARw7qbltHVzTfKrlmQRIOkawAuAk8YpdwCWJNe5dVmApBWAh4nlW5FcpntGgH8G93FfSS5CSARwZfmsZL4HsAjLIekJwGOw5yb8ngKsnscFwK81maStGUYGsCN56hcMAKeWt0r2HyRNUYch6cqpy542wzGcIgS8A7itAJ5JWjksuCmsVsohmRBg2j7rBKR1T7dtSV7YyxCghizDE7QAIHmI3QT4hSW4pI3rRbQkB8gqqAPwA+AoSeCbpFlLdIJskzsAudJmm2wSrMl0Sg/uSVrCsZtKql20XsCe5GCQU6yiF1C2CneJSk7aA6ibXWADuYa3AJGVjLwo1bmzAzuNN78SYOSwYazeX6aZ2cYrwxlj9K50EZuAhn00P88O+AMWYLUZjkydZQAAAABJRU5ErkJggg=="/>
+						<a href="https://www.facebook.com/jared.santiagogarcia">Facebook</a>	
+					</ul>
+
+					<ul class="contact">
+						<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABf0lEQVRIS8WVTUrDUBSFzxkKIt2BugO7A12BdS7+DEREEF2BdQdFHYgObHEBugPdge0OdAml4PTIqS8hfU1qEw29k0CSe793z/15RM3GmuNjMQBJmwD2Afi59kuWHwDeAPRI+jlhUxlIOgDwWFG6Q5LdrO8EIJz8tWLwxG0rm0kMMN3SzGvDIGMLwGVwslRWYWwxwHquFkTvAeiHbxvhIH2STUkGPIdv43dFAOUEHwBokTQ8NUmGOGP7uBEaaVAyPXicQR5g3cElPQDYCwEtw3GAvE91TgnAWE9J9wCOokB3JE8kTdWNJQAXJDuSvgAsRYARyRVJ7UyBfwpbAnBFsi1pBGA5AgxJNv4KSCS6BXAaAW5Inkl6AbA9MVwlMrBfk2Rf0jWA3VDkJ5Ln/1FkA9yeO4bktKmnPm3Pedp01qBZiuygebjybEDSM5I7yWVXRR5g5qrweq5v2fk4ta7rJN+wtr0RnVHR8kt+/wwXTneuC6egcJVfL+ZOrnzcHMdvVWasGRN7IRwAAAAASUVORK5CYII="/>
+						<a href="https://www.instagram.com/jaredsantiag/">Instagram</a>
+					</ul>
+
 				</div>
 			</section>
+
 		</div>
 
 		<script src="assets/js/jquery.min.js"></script>
