@@ -93,36 +93,42 @@
 								<img src="images/Prepa-Bot.jpg" class="image">
 								<h3 class="major">PREPA BOT</h3>
 								<p>Es una aplicacion de Chatbot educativo para la plataforma Facebook Messenger, el cual responde preguntas de matemáticas e informática de forma inmediata. Utilice Flask, AIML y Python para la programación. </p>
+								<a href="https://github.com/JaredSantiag/PrepaBot" class="special">Ver</a>
 							</article>
 
 							<article>
 								<img src="images/animate.jpg" class="image">
 								<h3 class="major">ANIMATE</h3>
 								<p>Sitio web orientado a facilitar el aprendizaje de fracciones a los niños de primaria, proporcionando herramientas para comprender definiciones y operaciones mediante un juego de preguntas y respuestas. Use Html5, CSS3 y Javascript.</p>
+								<a href="https://github.com/JaredSantiag/animate" class="special">Ver</a>
 							</article>
 										
 							<article>
 								<img src="images/tiendadeportiva.jpg" class="image">
 								<h3 class="major">TIENDA DEPORTIVA</h3>
 								<p>Modele personajes y escenario para realizar una animación de un partido de futbol e implementarlo en una pagina de tienda web. Utilice  Html5, Javascript, Three.js y 3DS Max.</Html> </p>
+								<a href="https://github.com/JaredSantiag/Estadio_WebGL" class="special">Ver</a>
 							</article>
 										
 							<article>
 								<img src="images/rola_el_libro.jpg" class="image">
 								<h3 class="major">ROLA EL LIBRO</h3>
 								<P>Aplicación móvil para IOS creada con Swift. El objetivo de la aplicación fue brindar a los usuarios una plataforma donde se registren y puedan intercambiar libros agendando citas de forma segura.</P>
+								<a href="https://drive.google.com/file/d/1BiZsUeWcaCg7cyjHkxbfzZLYOOQjseFa/view" class="special">Ver</a>
 							</article>
 
 							<article>
 								<img src="images/tratamiento.jpg" class="image">
 								<h3 class="major">TRATAMIENTO DE INFORMACION</h3>
 								<p>Elabore una aplicación en java, al recibir un conjunto de datos, realiza una limpieza eliminando los atributos con menor coeficiente de correlación y posteriormente usa el clasificador Naive Bayes. </p>
+								<a href="https://github.com/JaredSantiag/TratamientoDeInformacion" class="special">Ver</a>
 							</article>
 										
 							<article>
-								<img src="images/crud.jpg" class="image">
+								<img src="images/crud_java.jpg" class="image">
 								<h3 class="major">CRUD DE UNA TIENDA</h3>
 								<p>Elabore en Java y SQL Server un CRUD (Create, Read, Update and Delete) con una relación de muchos amuchos, de productos y proveedores para una tienda.</p>
+								<a href="https://github.com/JaredSantiag/CRUD" class="special">Ver</a>
 							</article>
 
 						</section>
