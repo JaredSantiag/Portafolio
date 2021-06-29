@@ -40,8 +40,8 @@
 					</div>	
 
 					<h2>Jared Arturo Santiago Garcia</h2>
-					<p>Licenciado en Ingenieria en Ciencias de la Computacion</br>
-					Especializado en el Desarrollo de Software</p>
+					<h4>Licenciado en Ingenieria en Ciencias de la Computacion	|	Benemerita Universidad Autonoma de Puebla</br>
+					Especializado en el Desarrollo de Software</h4>
 
 				</div>
 			</section>
@@ -74,7 +74,7 @@
 									Soy apacionado y creativo. Me gusta el desarrollo de software, destacando el desarrollo web.
 								</p>
 								<p>
-									Tengo conocimiento en distintos lenguajes y mucho entusiasmo en no dejar de aprender.
+									Tengo conocimiento en distintos lenguajes, tengo mucho entusiasmo en no dejar de aprender.
 								</p>
 								<p>
 									Actualmente resido en la ciudad de Puebla, Mexico.
@@ -90,42 +90,63 @@
 						<section class="features">
 
 							<article>
-								<img src="images/Prepa-Bot.jpg" class="image">
+								<a href="images/gestor-escolar.jpg">
+									<img src="images/gestor-escolar.jpg" class="image">
+								</a>
+								<h3 class="major">Gestor Escolar</h3>
+								<p>Sitio web en el que los coordinadores llevan el control admisnistrativo del docorado. El gestor escolar tiene funciones para alumnos, docentes, cursos y coloquios. Use hTML5, CSS3, PHP, Bootstrap y MySQL.</p>
+								<a class="special">Ver</a>
+							</article>
+							
+							<article>
+								<a href="images/Prepa-Bot.jpg">
+									<img src="images/Prepa-Bot.jpg" class="image">
+								</a>
 								<h3 class="major">PREPA BOT</h3>
 								<p>Es una aplicacion de Chatbot educativo para la plataforma Facebook Messenger, el cual responde preguntas de matemáticas e informática de forma inmediata. Utilice Flask, AIML y Python para la programación. </p>
 								<a href="https://github.com/JaredSantiag/PrepaBot" class="special">Ver</a>
 							</article>
 
 							<article>
-								<img src="images/animate.jpg" class="image">
+								<a href="images/animate.jpg">
+									<img src="images/animate.jpg" class="image">
+								</a>
 								<h3 class="major">ANIMATE</h3>
-								<p>Sitio web orientado a facilitar el aprendizaje de fracciones a los niños de primaria, proporcionando herramientas para comprender definiciones y operaciones mediante un juego de preguntas y respuestas. Use Html5, CSS3 y Javascript.</p>
+								<p>Sitio web orientado a facilitar el aprendizaje de fracciones a los niños de primaria, proporcionando herramientas para comprender definiciones y operaciones mediante un juego de preguntas y respuestas. Use HTML5, CSS3 y Javascript.</p>
 								<a href="https://github.com/JaredSantiag/animate" class="special">Ver</a>
 							</article>
-										
+						
 							<article>
-								<img src="images/tiendadeportiva.jpg" class="image">
+								<a href="images/animacion.png">
+									<img src="images/animacion.png" class="image">
+								</a>
 								<h3 class="major">TIENDA DEPORTIVA</h3>
 								<p>Modele personajes y escenario para realizar una animación de un partido de futbol e implementarlo en una pagina de tienda web. Utilice  Html5, Javascript, Three.js y 3DS Max.</Html> </p>
 								<a href="https://github.com/JaredSantiag/Estadio_WebGL" class="special">Ver</a>
 							</article>
 										
 							<article>
-								<img src="images/rola_el_libro.jpg" class="image">
+								<a href="images/rola_el_libro.jpg">
+									<img src="images/rola_el_libro.jpg" class="image">
+								</a>
 								<h3 class="major">ROLA EL LIBRO</h3>
 								<P>Aplicación móvil para IOS creada con Swift. El objetivo de la aplicación fue brindar a los usuarios una plataforma donde se registren y puedan intercambiar libros agendando citas de forma segura.</P>
 								<a href="https://drive.google.com/file/d/1BiZsUeWcaCg7cyjHkxbfzZLYOOQjseFa/view" class="special">Ver</a>
 							</article>
 
 							<article>
-								<img src="images/tratamiento.jpg" class="image">
+								<a href="images/tratamiento.jpg">
+									<img src="images/tratamiento.jpg" class="image">
+								</a>
 								<h3 class="major">TRATAMIENTO DE INFORMACION</h3>
 								<p>Elabore una aplicación en java, al recibir un conjunto de datos, realiza una limpieza eliminando los atributos con menor coeficiente de correlación y posteriormente usa el clasificador Naive Bayes. </p>
 								<a href="https://github.com/JaredSantiag/TratamientoDeInformacion" class="special">Ver</a>
 							</article>
 										
 							<article>
-								<img src="images/crud_java.jpg" class="image">
+								<a href="images/crud_java.jpg">
+									<img src="images/crud_java.jpg" class="image">
+								</a>
 								<h3 class="major">CRUD DE UNA TIENDA</h3>
 								<p>Elabore en Java y SQL Server un CRUD (Create, Read, Update and Delete) con una relación de muchos amuchos, de productos y proveedores para una tienda.</p>
 								<a href="https://github.com/JaredSantiag/CRUD" class="special">Ver</a>
@@ -148,7 +169,7 @@
 
 					<ul class="contact">
 						<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABt0lEQVRIS7VVC1HDQBTcVQAoABQACqAKAAUUBVAFgAKKA6oAUEBRQHHQOigKHrPtu/ByuTaBmdxMJjOXu923+z4hel7sGR+tBGZ2AeAcwLE/imnmz5TkZFuQGwkc+BHAQYvKOYARydfSuSKBmd0DuPujfWOSo/xOg+Cf4An3ieRtJKkRmNkZgHc/8AZASoYAbnzvy99H/pb/z37myvcuo105gfzc94MPJEUAM9sluYyRxb1M9ZzkYTpbEXhSXwLIhKSib10FW69JStlvmZqZNpJMfRuQnLairxWqhD9LwUUFAjtNXpPUpc7LzOL9GcmTXIE83nHED5JKeOeVEYDkKviowAJaLwRR4pLkXufw13mIDixIriZAVJAnWe0/7kJiZmoujZW0qgrcVKbfng/1gbqz1gMJRb3glZcH0ixTXTIzNZoSPQCgqFLZqquHiciBpVhVJ5K4KntqFjlBGhWKWGWWQKquDtHnlqZPtf4pDbvkZ3E6BoLSxN0+7MLlRKIfi9QoaavW30LQUNmwKAOQXQLV8CtZlBQsPD/FsdLllyki9YXURAUaJQeb/mTpYCtBlz7YdqZ3gh9fBMUZsIfEGQAAAABJRU5ErkJggg=="/>
-						<a href="https://github.com/JaredSantiag">GitHub</a>
+						<a href="https://github.com/JaredSantiag/Portafolio">GitHub</a>
 					</ul>
 
 					<ul class="contact">	
@@ -168,7 +189,6 @@
 
 				</div>
 			</section>
-
 		</div>
 
 		<script src="assets/js/jquery.min.js"></script>
