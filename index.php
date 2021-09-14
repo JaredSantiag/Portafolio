@@ -95,7 +95,6 @@
 								</a>
 								<h3 class="major">Gestor Escolar</h3>
 								<p>Sitio web en el que los coordinadores llevan el control admisnistrativo del docorado. El gestor escolar tiene funciones para alumnos, docentes, cursos y coloquios. Use hTML5, CSS3, PHP, Bootstrap y MySQL.</p>
-								<a class="special">Ver</a>
 							</article>
 							
 							<article>
@@ -104,16 +103,22 @@
 								</a>
 								<h3 class="major">PREPA BOT</h3>
 								<p>Es una aplicacion de Chatbot educativo para la plataforma Facebook Messenger, el cual responde preguntas de matemáticas e informática de forma inmediata. Utilice Flask, AIML y Python para la programación. </p>
-								<a href="https://github.com/JaredSantiag/PrepaBot" class="special">Ver</a>
 							</article>
 
+							<article>
+								<a href="images/pokedex.jpg">
+									<img src="images/pokedex.jpg" class="image">
+								</a>
+								<h3 class="major">POKEDEX</h3>
+								<p>Pagina web en la que muestra informacion de los diferentes Pokemon.  Los datos son obtenidos de pokeapi.co, utilice React y CSS para la elaboracion de la pagina. </p>
+							</article>
+							
 							<article>
 								<a href="images/animate.jpg">
 									<img src="images/animate.jpg" class="image">
 								</a>
 								<h3 class="major">ANIMATE</h3>
 								<p>Sitio web orientado a facilitar el aprendizaje de fracciones a los niños de primaria, proporcionando herramientas para comprender definiciones y operaciones mediante un juego de preguntas y respuestas. Use HTML5, CSS3 y Javascript.</p>
-								<a href="https://github.com/JaredSantiag/animate" class="special">Ver</a>
 							</article>
 						
 							<article>
@@ -122,7 +127,6 @@
 								</a>
 								<h3 class="major">TIENDA DEPORTIVA</h3>
 								<p>Modele personajes y escenario para realizar una animación de un partido de futbol e implementarlo en una pagina de tienda web. Utilice  Html5, Javascript, Three.js y 3DS Max.</Html> </p>
-								<a href="https://github.com/JaredSantiag/Estadio_WebGL" class="special">Ver</a>
 							</article>
 										
 							<article>
@@ -131,7 +135,6 @@
 								</a>
 								<h3 class="major">ROLA EL LIBRO</h3>
 								<P>Aplicación móvil para IOS creada con Swift. El objetivo de la aplicación fue brindar a los usuarios una plataforma donde se registren y puedan intercambiar libros agendando citas de forma segura.</P>
-								<a href="https://drive.google.com/file/d/1BiZsUeWcaCg7cyjHkxbfzZLYOOQjseFa/view" class="special">Ver</a>
 							</article>
 
 							<article>
@@ -140,7 +143,6 @@
 								</a>
 								<h3 class="major">TRATAMIENTO DE INFORMACION</h3>
 								<p>Elabore una aplicación en java, al recibir un conjunto de datos, realiza una limpieza eliminando los atributos con menor coeficiente de correlación y posteriormente usa el clasificador Naive Bayes. </p>
-								<a href="https://github.com/JaredSantiag/TratamientoDeInformacion" class="special">Ver</a>
 							</article>
 										
 							<article>
@@ -149,7 +151,6 @@
 								</a>
 								<h3 class="major">CRUD DE UNA TIENDA</h3>
 								<p>Elabore en Java y SQL Server un CRUD (Create, Read, Update and Delete) con una relación de muchos amuchos, de productos y proveedores para una tienda.</p>
-								<a href="https://github.com/JaredSantiag/CRUD" class="special">Ver</a>
 							</article>
 
 						</section>
