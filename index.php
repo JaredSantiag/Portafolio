@@ -90,7 +90,7 @@
 						<section class="features">
 
 							<article>
-								<a href="images/gestor-escolar.jpg">
+								<a href="images/gestor-escolar.jpg" target="_blank">
 									<img src="images/gestor-escolar.jpg" class="image">
 								</a>
 								<h3 class="major">Gestor Escolar</h3>
@@ -98,7 +98,7 @@
 							</article>
 							
 							<article>
-								<a href="images/Prepa-Bot.jpg">
+								<a href="images/Prepa-Bot.jpg" target="_blank">
 									<img src="images/Prepa-Bot.jpg" class="image">
 								</a>
 								<h3 class="major">PREPA BOT</h3>
@@ -106,7 +106,7 @@
 							</article>
 
 							<article>
-								<a href="images/pokedex.jpg">
+								<a href="images/pokedex.jpg" target="_blank">
 									<img src="images/pokedex.jpg" class="image">
 								</a>
 								<h3 class="major">POKEDEX</h3>
@@ -114,7 +114,7 @@
 							</article>
 							
 							<article>
-								<a href="images/animate.jpg">
+								<a href="images/animate.jpg" target="_blank">
 									<img src="images/animate.jpg" class="image">
 								</a>
 								<h3 class="major">ANIMATE</h3>
@@ -122,7 +122,7 @@
 							</article>
 						
 							<article>
-								<a href="images/animacion.png">
+								<a href="images/animacion.png" target="_blank">
 									<img src="images/animacion.png" class="image">
 								</a>
 								<h3 class="major">TIENDA DEPORTIVA</h3>
@@ -130,7 +130,7 @@
 							</article>
 										
 							<article>
-								<a href="images/rola_el_libro.jpg">
+								<a href="images/rola_el_libro.jpg" target="_blank">
 									<img src="images/rola_el_libro.jpg" class="image">
 								</a>
 								<h3 class="major">ROLA EL LIBRO</h3>
@@ -138,7 +138,7 @@
 							</article>
 
 							<article>
-								<a href="images/tratamiento.jpg">
+								<a href="images/tratamiento.jpg" target="_blank">
 									<img src="images/tratamiento.jpg" class="image">
 								</a>
 								<h3 class="major">TRATAMIENTO DE INFORMACION</h3>
@@ -146,7 +146,7 @@
 							</article>
 										
 							<article>
-								<a href="images/crud_java.jpg">
+								<a href="images/crud_java.jpg" target="_blank">
 									<img src="images/crud_java.jpg" class="image">
 								</a>
 								<h3 class="major">CRUD DE UNA TIENDA</h3>
