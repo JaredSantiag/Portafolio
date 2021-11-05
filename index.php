@@ -7,7 +7,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-		<link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
 	</head>
 
 	<body class="is-preload">
@@ -26,6 +25,7 @@
 					<ul class="links">
 						<li><a href="index.php">Inicio</a></li>
 						<li><a href="#wrapper">Sobre Mi</a></li>
+						<li><a href="#experiencia">Experiencia Laboral</a></li>
 						<li><a href="#portafolio">Portafolio</a></li>
 						<li><a href="#footer">Contacto</a></li>
 					</ul>
@@ -40,8 +40,8 @@
 					</div>	
 
 					<h2>Jared Arturo Santiago Garcia</h2>
-					<h4>Licenciado en Ingenieria en Ciencias de la Computacion	|	Benemerita Universidad Autonoma de Puebla</br>
-					Especializado en el Desarrollo de Software</h4>
+					<h3>Licenciado en Ingenieria en Ciencias de la Computacion	|	Benemerita Universidad Autonoma de Puebla</br>
+					Full Stack Developer</h3>
 
 				</div>
 			</section>
@@ -54,16 +54,16 @@
 							<tr>
 								<td><img src="images/Iconos/html.svg" width="50" height="50"></td>
 								<td><img src="images/Iconos/css.svg" width="50" height="50"></td>
-								<td><img src="images/Iconos/javascript.svg" width="50" height="50"></td>
+								<td><img src="images/Iconos/js.png" width="50" height="50"></td>
 							</tr>
 							<tr>				  
 								<td><img src="images/Iconos/java.svg" width="50" height="50"></td>									  
-							  	<td><img src="images/Iconos/python.svg" width="50" height="50"></td>
-								<td><img src="images/Iconos/php.svg" width="50" height="50"></td>
+								<td><img src="images/Iconos/php.png" width="50" height="50"></td>
+								<td><img src="images/Iconos/python.svg" width="50" height="50"></td>
 							</tr>
 							<tr>				  
 								<td><img src="images/Iconos/swift.svg" width="50" height="50"></td>									  
-								<td><img src="images/Iconos/sql.svg" width="50" height="50"></td>
+								<td><img src="images/Iconos/mysql.png" width="50" height="50"></td>
 								<td><img src="images/Iconos/linux.svg" width="50" height="50"></td>
 							</tr>
 						</table>
@@ -71,24 +71,34 @@
 						<div class="content">
 							<h2 class="major">Sobre Mi</h2>
 								<p>
-									Soy apacionado y creativo. Me gusta el desarrollo de software, destacando el desarrollo web.
+									Soy apasionado y creativo. Me gusta el desarrollo de software, destacando el desarrollo web.
 								</p>
 								<p>
 									Tengo conocimiento en distintos lenguajes, tengo mucho entusiasmo en no dejar de aprender.
 								</p>
 								<p>
-									Actualmente resido en la ciudad de Puebla, Mexico.
+									Actualmente resido en la ciudad de Puebla, México.
 								</p>		
 						</div>
 					</div>
 				</section>
-			</section>						
+			</section>			
 			
-			<section id="portafolio" class="wrapper alt style1">
+			<section class="wrapper alt style1">
 				<div class="inner">
-					<h2 class="major">Portafolio</h2>
-						<section class="features">
 
+					<section id="experiencia">
+						<h2 class="major">Experiencia Laboral</h2>
+						<img src="images/cja.jpg" width="150" height="150" style="border-radius: 10px">
+						<p><h3>Corporativo Jurídico y de Administración S.C.</h3></p>
+						Septiembre 2021 - Actualidad<br>
+						Desarrollé nuevas aplicaciones e hice actualizaciones a los diferentes sistemas de la empresa. Principalmente utilice HTML, CSS, JavaScript, PHP, Java Spring Boot, Perl y MySQL.
+						<br><br><br><br>
+					<section>
+					
+					<section id="portafolio">
+						<h2 class="major">Portafolio</h2>
+						<section class="features">
 							<article>
 								<a href="images/gestor-escolar.jpg" target="_blank">
 									<img src="images/gestor-escolar.jpg" class="image">
@@ -96,7 +106,7 @@
 								<h3 class="major">Gestor Escolar</h3>
 								<p>Sitio web en el que los coordinadores llevan el control admisnistrativo del docorado. El gestor escolar tiene funciones para alumnos, docentes, cursos y coloquios. Use hTML5, CSS3, PHP, Bootstrap y MySQL.</p>
 							</article>
-							
+								
 							<article>
 								<a href="images/Prepa-Bot.jpg" target="_blank">
 									<img src="images/Prepa-Bot.jpg" class="image">
@@ -112,7 +122,7 @@
 								<h3 class="major">POKEDEX</h3>
 								<p>Pagina web en la que muestra informacion de los diferentes Pokemon.  Los datos son obtenidos de pokeapi.co, utilice React y CSS para la elaboracion de la pagina. </p>
 							</article>
-							
+								
 							<article>
 								<a href="images/animate.jpg" target="_blank">
 									<img src="images/animate.jpg" class="image">
@@ -120,7 +130,7 @@
 								<h3 class="major">ANIMATE</h3>
 								<p>Sitio web orientado a facilitar el aprendizaje de fracciones a los niños de primaria, proporcionando herramientas para comprender definiciones y operaciones mediante un juego de preguntas y respuestas. Use HTML5, CSS3 y Javascript.</p>
 							</article>
-						
+							
 							<article>
 								<a href="images/animacion.png" target="_blank">
 									<img src="images/animacion.png" class="image">
@@ -128,7 +138,7 @@
 								<h3 class="major">TIENDA DEPORTIVA</h3>
 								<p>Modele personajes y escenario para realizar una animación de un partido de futbol e implementarlo en una pagina de tienda web. Utilice  Html5, Javascript, Three.js y 3DS Max.</Html> </p>
 							</article>
-										
+											
 							<article>
 								<a href="images/rola_el_libro.jpg" target="_blank">
 									<img src="images/rola_el_libro.jpg" class="image">
@@ -144,7 +154,7 @@
 								<h3 class="major">TRATAMIENTO DE INFORMACION</h3>
 								<p>Elabore una aplicación en java, al recibir un conjunto de datos, realiza una limpieza eliminando los atributos con menor coeficiente de correlación y posteriormente usa el clasificador Naive Bayes. </p>
 							</article>
-										
+											
 							<article>
 								<a href="images/crud_java.jpg" target="_blank">
 									<img src="images/crud_java.jpg" class="image">
@@ -152,11 +162,11 @@
 								<h3 class="major">CRUD DE UNA TIENDA</h3>
 								<p>Elabore en Java y SQL Server un CRUD (Create, Read, Update and Delete) con una relación de muchos amuchos, de productos y proveedores para una tienda.</p>
 							</article>
-
 						</section>
-					</div>
-				</section>
+					<section>
+				</div>
 			</section>
+									
 			
 
 			<section id="footer">
@@ -170,7 +180,7 @@
 
 					<ul class="contact">
 						<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABt0lEQVRIS7VVC1HDQBTcVQAoABQACqAKAAUUBVAFgAKKA6oAUEBRQHHQOigKHrPtu/ByuTaBmdxMJjOXu923+z4hel7sGR+tBGZ2AeAcwLE/imnmz5TkZFuQGwkc+BHAQYvKOYARydfSuSKBmd0DuPujfWOSo/xOg+Cf4An3ieRtJKkRmNkZgHc/8AZASoYAbnzvy99H/pb/z37myvcuo105gfzc94MPJEUAM9sluYyRxb1M9ZzkYTpbEXhSXwLIhKSib10FW69JStlvmZqZNpJMfRuQnLairxWqhD9LwUUFAjtNXpPUpc7LzOL9GcmTXIE83nHED5JKeOeVEYDkKviowAJaLwRR4pLkXufw13mIDixIriZAVJAnWe0/7kJiZmoujZW0qgrcVKbfng/1gbqz1gMJRb3glZcH0ixTXTIzNZoSPQCgqFLZqquHiciBpVhVJ5K4KntqFjlBGhWKWGWWQKquDtHnlqZPtf4pDbvkZ3E6BoLSxN0+7MLlRKIfi9QoaavW30LQUNmwKAOQXQLV8CtZlBQsPD/FsdLllyki9YXURAUaJQeb/mTpYCtBlz7YdqZ3gh9fBMUZsIfEGQAAAABJRU5ErkJggg=="/>
-						<a href="https://github.com/JaredSantiag/Portafolio">GitHub</a>
+						<a href="https://github.com/JaredSantiag">GitHub</a>
 					</ul>
 
 					<ul class="contact">	
