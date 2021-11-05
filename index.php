@@ -40,7 +40,8 @@
 					</div>	
 
 					<h2>Jared Arturo Santiago Garcia</h2>
-					<h3>Licenciado en Ingenieria en Ciencias de la Computacion	|	Benemerita Universidad Autonoma de Puebla</br>
+					<h3>Licenciado en Ingenieria en Ciencias de la Computacion</br>
+					Benemerita Universidad Autonoma de Puebla</br>
 					Full Stack Developer</h3>
 
 				</div>
