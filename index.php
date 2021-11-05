@@ -93,7 +93,7 @@
 						<img src="images/cja.jpg" width="150" height="150" style="border-radius: 10px">
 						<p><h3>Corporativo Jurídico y de Administración S.C.</h3></p>
 						Septiembre 2021 - Actualidad<br>
-						Desarrollo nuevas aplicaciones y hago actualizaciones a los diferentes sistemas de la empresa. Principalmente utilice HTML, CSS, JavaScript, PHP, Java Spring Boot, Perl y MySQL.
+						Desarrollo nuevas aplicaciones y hago actualizaciones a los diferentes sistemas de la empresa. Principalmente utilizo HTML, CSS, JavaScript, PHP, Java Spring Boot, Perl y MySQL.
 						<br><br><br><br>
 					<section>
 					
