@@ -40,9 +40,10 @@
 					</div>	
 
 					<h2>Jared Arturo Santiago Garcia</h2>
-					<h3>Licenciado en Ingenieria en Ciencias de la Computacion</br>
-					Benemerita Universidad Autonoma de Puebla</br>
-					Full Stack Developer</h3>
+					<h3>LICENCIADO EN INGENIERÍA EN CIENCIAS DE LA COMPUTACIÓN <br>
+					    BENEMÉRITA UNIVERSIDAD AUTÓNOMA DE PUEBLA <br>
+					    FULL STACK DEVELOPER
+					</h3>
 
 				</div>
 			</section>
