@@ -55,16 +55,16 @@
 							<tr>
 								<td><img src="images/Iconos/html.svg" width="50" height="50"></td>
 								<td><img src="images/Iconos/css.svg" width="50" height="50"></td>
-								<td><img src="images/Iconos/js.png" width="50" height="50"></td>
+								<td><img src="images/Iconos/js.svg" width="50" height="50"></td>
 							</tr>
 							<tr>				  
 								<td><img src="images/Iconos/java.svg" width="50" height="50"></td>									  
-								<td><img src="images/Iconos/php.png" width="50" height="50"></td>
+								<td><img src="images/Iconos/php.svg" width="50" height="50"></td>
 								<td><img src="images/Iconos/python.svg" width="50" height="50"></td>
 							</tr>
 							<tr>				  
 								<td><img src="images/Iconos/swift.svg" width="50" height="50"></td>									  
-								<td><img src="images/Iconos/mysql.png" width="50" height="50"></td>
+								<td><img src="images/Iconos/mysql.svg" width="50" height="50"></td>
 								<td><img src="images/Iconos/linux.svg" width="50" height="50"></td>
 							</tr>
 						</table>
